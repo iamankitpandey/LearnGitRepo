@@ -5,6 +5,7 @@ public class githello {
         }
         System.out.println("Sorry i dont to add loops");
         System.out.println("I will add while loop.");
+        System.out.println("The new feature has been added");
     }
     
 }
